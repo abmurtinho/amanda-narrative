@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /amanda-narrative/
+Sitemap: https://abmurtinho.github.io/amanda-narrative/sitemap.xml
